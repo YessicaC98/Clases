@@ -1,6 +1,12 @@
 .mi-clase {
     color: blueviolet;
-    font-size: 32px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 20px;
+    text-align: center;
+    text-shadow: 4px -2px;
 }
 
 .ff-serif {
@@ -13,4 +19,8 @@
 
 .ff-monospace {
     font-family: monospace;
+}
+
+.color-azul {
+    color: blue;
 }
