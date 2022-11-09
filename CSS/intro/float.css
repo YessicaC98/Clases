@@ -1,0 +1,25 @@
+body {
+    width: 1024px;
+    height: 512px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+    border: 2px solid black;
+}
+
+
+
+header,
+nav,
+main,
+aside,
+footer {
+    background-color: grey;
+    border: 2px solid red;
+    color: white;
+}
+
+header {
+    height: 80px;
+    line-height: 80px;
+}
